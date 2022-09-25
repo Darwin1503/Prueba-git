@@ -3,3 +3,5 @@ hola
 soy darwin
 
 tiene 20 años
+
+hoy es un estudiante de tecnologia.
